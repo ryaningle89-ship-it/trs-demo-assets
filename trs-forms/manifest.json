@@ -1,0 +1,121 @@
+{
+  "note": "documentId -> scanned page files. Prefix each file with the hosting base URL.",
+  "documents": {
+    "FN-000601": {
+      "formType": "TRS-6",
+      "pageCount": 2,
+      "files": [
+        "FN-000601-p1.jpg",
+        "FN-000601-p2.jpg"
+      ]
+    },
+    "FN-000602": {
+      "formType": "TRS-6",
+      "pageCount": 2,
+      "files": [
+        "FN-000602-p1.jpg",
+        "FN-000602-p2.jpg"
+      ]
+    },
+    "FN-000603": {
+      "formType": "TRS-6",
+      "pageCount": 2,
+      "files": [
+        "FN-000603-p1.jpg",
+        "FN-000603-p2.jpg"
+      ]
+    },
+    "FN-000604": {
+      "formType": "TRS-6",
+      "pageCount": 2,
+      "files": [
+        "FN-000604-p1.jpg",
+        "FN-000604-p2.jpg"
+      ]
+    },
+    "FN-001501": {
+      "formType": "TRS-15",
+      "pageCount": 1,
+      "files": [
+        "FN-001501-p1.jpg"
+      ]
+    },
+    "FN-001502": {
+      "formType": "TRS-15",
+      "pageCount": 1,
+      "files": [
+        "FN-001502-p1.jpg"
+      ]
+    },
+    "FN-001503": {
+      "formType": "TRS-15",
+      "pageCount": 1,
+      "files": [
+        "FN-001503-p1.jpg"
+      ]
+    },
+    "FN-001504": {
+      "formType": "TRS-15",
+      "pageCount": 1,
+      "files": [
+        "FN-001504-p1.jpg"
+      ]
+    },
+    "FN-001801": {
+      "formType": "TRS-18",
+      "pageCount": 1,
+      "files": [
+        "FN-001801-p1.jpg"
+      ]
+    },
+    "FN-001802": {
+      "formType": "TRS-18",
+      "pageCount": 1,
+      "files": [
+        "FN-001802-p1.jpg"
+      ]
+    },
+    "FN-001803": {
+      "formType": "TRS-18",
+      "pageCount": 1,
+      "files": [
+        "FN-001803-p1.jpg"
+      ]
+    },
+    "FN-001804": {
+      "formType": "TRS-18",
+      "pageCount": 1,
+      "files": [
+        "FN-001804-p1.jpg"
+      ]
+    },
+    "FN-035801": {
+      "formType": "TRS-358",
+      "pageCount": 1,
+      "files": [
+        "FN-035801-p1.jpg"
+      ]
+    },
+    "FN-035802": {
+      "formType": "TRS-358",
+      "pageCount": 1,
+      "files": [
+        "FN-035802-p1.jpg"
+      ]
+    },
+    "FN-035803": {
+      "formType": "TRS-358",
+      "pageCount": 1,
+      "files": [
+        "FN-035803-p1.jpg"
+      ]
+    },
+    "FN-035804": {
+      "formType": "TRS-358",
+      "pageCount": 1,
+      "files": [
+        "FN-035804-p1.jpg"
+      ]
+    }
+  }
+}

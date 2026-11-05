@@ -1,0 +1,38 @@
+{
+  "documentId": "FN-000601",
+  "formType": "TRS-6",
+  "status": "incomplete",
+  "confidence": "high",
+  "missingFields": [
+    "Section 1 - Name",
+    "Section 1 - Social Security Number",
+    "Section 1 - Address (street, city, state, zip all present)",
+    "Section 1 - Phone Number",
+    "Section 1 - Date of Birth",
+    "Section 1 - Employment end date",
+    "Section 1 - U.S. citizen question answered (Yes or No checked)",
+    "Section 2 - Refund election (Refund OR Direct Rollover checked)",
+    "Section 3 - Payment method (Check OR Direct Deposit checked)",
+    "Section 4 - Member signature",
+    "Notary block - state",
+    "Notary block - county",
+    "Notary block - date",
+    "Notary block - printed name of person whose signature appears above",
+    "Notary block - notary signature"
+  ],
+  "ambiguousFields": [],
+  "notes": "Both pages of this TRS-6 are an entirely blank form with no fields filled in; the direct deposit block is not required because Direct Deposit was not checked.",
+  "queue": "Uncompleted Form Queue",
+  "routingReason": "Required fields are blank: Section 1 - Name; Section 1 - Social Security Number; Section 1 - Address (street, city, state, zip all present); Section 1 - Phone Number; Section 1 - Date of Birth; Section 1 - Employment end date; Section 1 - U.S. citizen question answered (Yes or No checked); Section 2 - Refund election (Refund OR Direct Rollover checked); Section 3 - Payment method (Check OR Direct Deposit checked); Section 4 - Member signature; Notary block - state; Notary block - county; Notary block - date; Notary block - printed name of person whose signature appears above; Notary block - notary signature.",
+  "bucket": "incomplete",
+  "pages": [
+      "FN-000601-p1.jpg",
+      "FN-000601-p2.jpg"
+    ],
+  "evaluatedAt": "2026-11-05T23:00:52.487Z",
+  "workItem": {
+      "succeeded": true,
+      "contactId": "721556806215",
+      "workItemId": "FN-000601-1793919652786"
+    }
+}

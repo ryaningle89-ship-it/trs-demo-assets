@@ -1,0 +1,25 @@
+{
+  "documentId": "FN-000603",
+  "formType": "TRS-6",
+  "status": "incomplete",
+  "confidence": "high",
+  "missingFields": [
+    "Section 2 - Refund election (Refund OR Direct Rollover checked)",
+    "Account Number"
+  ],
+  "ambiguousFields": [],
+  "notes": "Neither the Refund nor the Direct Rollover box is marked in Section 2, and the Account Number boxes are empty even though Direct Deposit is marked in Section 3.",
+  "queue": "Uncompleted Form Queue",
+  "routingReason": "Required fields are blank: Section 2 - Refund election (Refund OR Direct Rollover checked); Account Number.",
+  "bucket": "incomplete",
+  "pages": [
+      "FN-000603-p1.jpg",
+      "FN-000603-p2.jpg"
+    ],
+  "evaluatedAt": "2026-11-06T04:40:40.371Z",
+  "workItem": {
+      "succeeded": false,
+      "contactId": "",
+      "workItemId": "FN-000603-1793940040555"
+    }
+}

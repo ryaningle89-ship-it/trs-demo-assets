@@ -1,0 +1,22 @@
+{
+  "documentId": "FN-000602",
+  "formType": "TRS-6",
+  "status": "complete",
+  "confidence": "high",
+  "missingFields": [],
+  "ambiguousFields": [],
+  "notes": "All required fields are filled; the combined one-line address counts as present, the Refund and Check boxes are marked, so the direct-deposit block is not required, and the notary block has state, county, date, printed name and signature.",
+  "queue": "Complete Form Queue",
+  "routingReason": "Every required field on the TRS-6 checklist is filled.",
+  "bucket": "complete",
+  "pages": [
+        "FN-000602-p1.jpg",
+        "FN-000602-p2.jpg"
+      ],
+  "evaluatedAt": "2026-11-06T04:40:33.783Z",
+  "workItem": {
+        "succeeded": true,
+        "contactId": "721556869045",
+        "workItemId": "FN-000602-1793940034061"
+      }
+}
